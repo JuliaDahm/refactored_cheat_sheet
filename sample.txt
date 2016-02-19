@@ -1,0 +1,5 @@
+COMMAND
+1) mv
+2) cp
+3) cd
+4) Exit
